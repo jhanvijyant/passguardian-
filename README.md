@@ -16,6 +16,9 @@
 - 🧠 **Practical, real-world utility**
 
 ---
+###how it looks 
+![image](https://github.com/user-attachments/assets/4f7e1cc2-de09-4c96-894f-63902cb3cc45)
+
 
 ### 💡 Why I Built This
 
